@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**VishwajeetSingh-Tech/VishwajeetSingh-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Vishwajeet Singh — an aspiring IT Support / Application Support Analyst based in Canada.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on improving my skills in IT support, system troubleshooting, and client-server applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Networking, SQL, and practical IT support tools  
+
+💻 I work with: Java, JavaScript, HTML, CSS, SQL  
+
+🛠 Tools I use: Git, GitHub, VS Code, Windows & Linux  
+
+📫 How to reach me:  
+Email: Vishwajeetsingh121212@gmail.com  
+LinkedIn: https://linkedin.com/in/vishwajeetsinghit  
+
+⚡ Fun fact: I enjoy solving technical problems and making systems work efficiently
