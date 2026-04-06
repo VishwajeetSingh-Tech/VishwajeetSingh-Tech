@@ -14,14 +14,24 @@
 
 🌱 I’m currently learning Networking, SQL, and practical IT support tools  
 
+🎯 Career Goal  
+To build a strong career in Healthcare IT by gaining hands-on experience in system support, troubleshooting, and IT infrastructure.
+
+---
+
+## 🌱 What I'm Learning
+- Networking fundamentals  
+- SQL & database management  
+- IT troubleshooting & support  
+- Healthcare IT systems  
+
 ---
 
 ## 💻 Skills
-- Java  
-- JavaScript  
-- HTML  
-- CSS  
-- SQL  
+- IT Support & Troubleshooting  
+- Networking Basics  
+- SQL (Databases)  
+- Basic Programming (Java, JavaScript)  
 
 ---
 
@@ -32,6 +42,29 @@
 
 ---
 
+## 🚀 Projects
+
+- **IT Troubleshooting Notes**  
+  Documentation of common technical issues and solutions  
+
+- **SQL Practice**  
+  Basic queries and database operations  
+
+- **Networking Basics**  
+  Notes on IP, DNS, and network troubleshooting  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishwajeetSingh-Tech&show_icons=true&theme=dark)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetSingh-Tech&layout=compact&theme=dark)
+
+---
+
 ## 📫 Connect With Me
 LinkedIn:  
 👉 https://linkedin.com/in/vishwajeetsinghit  
@@ -39,4 +72,4 @@ LinkedIn:
 ---
 
 ## ⚡ Fun Fact
-⚡ I turn technical problems into solutions by combining logic, patience, and attention to detail
+I enjoy solving technical problems with logic, patience, and attention to detail.
