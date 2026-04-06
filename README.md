@@ -10,28 +10,21 @@
 ---
 
 ## 🚀 About Me
-🔭 I’m currently working on improving my skills in IT support, system troubleshooting, and client-server applications  
+🔭 I’m focused on building skills in IT support, troubleshooting, and application support  
 
-🌱 I’m currently learning Networking, SQL, and practical IT support tools  
+🌱 Currently learning: Networking, SQL, and system administration basics  
 
-🎯 Career Goal  
-To build a strong career in Healthcare IT by gaining hands-on experience in system support, troubleshooting, and IT infrastructure.
-
----
-
-## 🌱 What I'm Learning
-- Networking fundamentals  
-- SQL & database management  
-- IT troubleshooting & support  
-- Healthcare IT systems  
+🎯 Goal:  
+To build a career in Healthcare IT as an IT Support / Application Support Analyst  
 
 ---
 
 ## 💻 Skills
 - IT Support & Troubleshooting  
 - Networking Basics  
-- SQL (Databases)  
-- Basic Programming (Java, JavaScript)  
+- SQL & Databases  
+- Java (OOP) & JavaScript  
+- Client-Server Applications  
 
 ---
 
@@ -43,33 +36,23 @@ To build a strong career in Healthcare IT by gaining hands-on experience in syst
 ---
 
 ## 🚀 Projects
+- IT Troubleshooting & Support Notes  
+- SQL Practice & Database Queries  
+- Networking Fundamentals  
+- Client-Server Web Application Support  
 
-- **IT Troubleshooting Notes**  
-  Documentation of common technical issues and solutions  
+---
 
-- **SQL Practice**  
-  Basic queries and database operations  
-
-- **Networking Basics**  
-  Notes on IP, DNS, and network troubleshooting  
+## 🧠 What I Bring
+A structured approach to troubleshooting, with the ability to analyze issues and provide reliable technical support.
 
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishwajeetSingh-Tech&show_icons=true&theme=dark)
 
-## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetSingh-Tech&layout=compact&theme=dark)
-
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 LinkedIn:  
-👉 https://linkedin.com/in/vishwajeetsinghit  
-
----
-
-## ⚡ Fun Fact
-I enjoy solving technical problems with logic, patience, and attention to detail.
+👉 https://linkedin.com/in/vishwajeetsinghit
