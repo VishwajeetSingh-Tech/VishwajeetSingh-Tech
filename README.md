@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vishwajeet Singh</h1>
+<h3 align="center">IT Support / Application Support Analyst | Canada 🇨🇦</h3>
 
-I’m Vishwajeet Singh — an aspiring IT Support / Application Support Analyst based in Canada.
+<p align="center">
+  <a href="https://linkedin.com/in/vishwajeetsinghit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
+---
+
+## 🚀 About Me
 🔭 I’m currently working on improving my skills in IT support, system troubleshooting, and client-server applications  
 
 🌱 I’m currently learning Networking, SQL, and practical IT support tools  
 
-💻 I work with: Java, JavaScript, HTML, CSS, SQL  
+---
 
-🛠 Tools I use: Git, GitHub, VS Code, Windows & Linux  
+## 💻 Skills
+- Java  
+- JavaScript  
+- HTML  
+- CSS  
+- SQL  
 
-📫 How to reach me:  
-LinkedIn: https://linkedin.com/in/vishwajeetsinghit  
+---
 
-⚡ Fun fact: I enjoy solving technical problems and making systems work efficiently
+## 🛠 Tools
+- Git & GitHub  
+- VS Code  
+- Windows & Linux  
+
+---
+
+## 📫 Connect With Me
+LinkedIn:  
+👉 https://linkedin.com/in/vishwajeetsinghit  
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving technical problems and making systems work efficiently 🚀
