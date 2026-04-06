@@ -11,7 +11,6 @@ I’m Vishwajeet Singh — an aspiring IT Support / Application Support Analyst 
 🛠 Tools I use: Git, GitHub, VS Code, Windows & Linux  
 
 📫 How to reach me:  
-Email: Vishwajeetsingh121212@gmail.com  
 LinkedIn: https://linkedin.com/in/vishwajeetsinghit  
 
 ⚡ Fun fact: I enjoy solving technical problems and making systems work efficiently
