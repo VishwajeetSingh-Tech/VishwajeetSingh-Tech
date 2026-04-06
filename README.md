@@ -39,4 +39,4 @@ LinkedIn:
 ---
 
 ## ⚡ Fun Fact
-I enjoy solving technical problems and making systems work efficiently 🚀
+⚡ I turn technical problems into solutions by combining logic, patience, and attention to detail
