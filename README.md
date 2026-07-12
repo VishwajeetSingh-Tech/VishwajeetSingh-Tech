@@ -54,7 +54,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishwajeetSingh-Tech&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetSingh-Tech&layout=compact&theme=dark)
 
 ---
 
