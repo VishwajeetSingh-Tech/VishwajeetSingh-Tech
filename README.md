@@ -53,9 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetSingh-Tech&layout=compact&theme=dark)
-
 ---
 
 ## 📫 Contact
